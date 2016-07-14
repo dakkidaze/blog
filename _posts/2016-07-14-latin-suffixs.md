@@ -1,4 +1,4 @@
----
+﻿---
 layout:	post
 title:	"Latin Suffixes"
 date:	2016-07-14
@@ -6,7 +6,7 @@ tags:	[English]
 comments:	true
 ---
 
-#####下面整理了部分由拉丁语进入英语的词缀以及示例词汇
+##### 下面整理了部分由拉丁语进入英语的词缀以及示例词汇 
 1. -er 人的社会地位比较低
 worker n. 工人
 2. -or 人的社会地位比较高
