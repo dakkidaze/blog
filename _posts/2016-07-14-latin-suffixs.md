@@ -1,9 +1,9 @@
-﻿---
-layout:	post
-title:	"Latin Suffixes"
-date:	2016-07-14
-tags:	[English]
-comments:	true
+---
+layout: post
+title: "Latin Suffixes"
+date: 2016-07-14
+tags: [English]
+comments: true
 ---
 
 ##### 下面整理了部分由拉丁语进入英语的词缀以及示例词汇 
