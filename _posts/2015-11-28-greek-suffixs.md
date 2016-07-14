@@ -6,7 +6,7 @@ tags: [English]
 comments: true
 ---
 
-#### 下面整理了部分由希腊语语进入英语的词缀以及示例词汇 
+#### 下面整理了部分由希腊语语进入英语的词缀以及示例词汇
 
 1. anthro- 人
 anthropology n. 人类学
