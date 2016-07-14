@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-=======
----
-layout: post
-title: "Latin Suffixes"
-date: 2016-07-14
-tags: [English]
-comments: true
->>>>>>> origin/gh-pages
 ---
 layout: post
 title: "拉丁词缀"
