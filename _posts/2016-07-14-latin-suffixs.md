@@ -1,8 +1,8 @@
 ﻿---
 layout: post
-title: "拉丁语进入英语的词缀"
+title: "Latin Suffixes"
 date: 2016-07-14
-tags: [英语学习]
+tags: [English]
 comments: true
 ---
 
